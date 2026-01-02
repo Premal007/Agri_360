@@ -461,7 +461,7 @@ def text_to_speech(text, lang_code):
 def main():
     st.set_page_config(page_title="Plant Chatbot", layout="centered")
     st.markdown(custom_css, unsafe_allow_html=True)
-    st.title("🌱 Plant Sustainable Chatbot – Ask Your Questions!")
+    st.title("🌱 Agriculture Chatbot – Ask Your Questions!")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
