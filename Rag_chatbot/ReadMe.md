@@ -84,10 +84,7 @@ The Agri-RAGBot workflow is divided into two main phases: **Knowledge Base Prepa
 - Overlapping ensures continuity of context.
 
 #### Step 4: Embedding Generation
-- Each chunk is converted into a dense vector using:
-```bash
-sentence-transformers/all-MiniLM-L12-v2
-```
+- Each chunk is converted into a dense vector using `sentence-transformers/all-MiniLM-L12-v2`
 - Embeddings capture semantic meaning rather than keyword matching.
 
 #### Step 5: Vector Index Creation
