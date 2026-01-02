@@ -53,7 +53,7 @@ The bot supports **multilingual interaction (English, Hindi, Gujarati, Tamil, et
 
 ## 📂 Data Sources
 
-- Curated agriculture-related PDF documents (crop cultivation, irrigation, pests, fertilizers, soil management, etc.)
+- Agriculture-related PDF(dummy) documents (crop cultivation, irrigation, pests, fertilizers, soil management, etc.)
 - PDF processing pipeline:
   - PyMuPDF for text extraction
   - Recursive text chunking with overlap
@@ -190,7 +190,9 @@ The bot strictly answers only when relevant information exists in the knowledge 
 
 - Image-based plant disease detection    
 - Mobile application deployment  
-- Integration with IoT sensors and weather APIs  
+- Integration with IoT sensors and weather APIs
+- Integration of Real Agricultural Knowledge Sources
+  - The system can be extended to ingest real agricultural PDF documents such as government advisories and research reports to get accurate and reliable of responses.
 
 ---
 
