@@ -1,0 +1,6 @@
+.env
+/rag
+/faiss_index
+/vectorstore
+evaluate.py
+evaluation_log.txt

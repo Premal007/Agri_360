@@ -1,0 +1,14 @@
+{
+  "How often should I water tomato plants?": {
+    "answer": "Error: list index out of range. Please try again with a different question.",
+    "lang": "en"
+  },
+  "How to prevent pests on strawberry?": {
+    "answer": "To prevent pests on strawberries, use the following strategies based on the provided context:\n\n1. **Integrated Pest Management (IPM):**  \n   - Combine biological controls, targeted chemical applications, and regular monitoring to manage pest populations while preserving beneficial insects and maintaining a balanced ecosystem.\n\n2. **Biological Controls:**  \n   - Introduce natural enemies, such as ladybugs for aphids and predatory mites for spider mites.\n   - Use biological control agents to target specific pests.\n\n3. **Environmental and Cultural Practices:**  \n   - Regular field scouting to detect early pest infestations.\n   - Use sticky traps (yellow or blue) for pests like whiteflies and thrips.\n   - Improve air circulation by proper plant spacing to reduce pest habitat and discourage conditions favorable for pests.\n\n4. **Chemical Controls (use only when necessary):**  \n   - Apply insecticidal soaps for aphids.\n   - Use neem-based insecticides for whiteflies.\n   - Apply spinosad-based insecticides for thrips.\n   - Use targeted acaricides for spider mites.\n\n5. **Physical Controls:**  \n   - Regular spraying of water can help dislodge spider mites.\n   - Manual weeding to reduce pest habitat.\n\n6. **Choose Resistant Varieties:**  \n   - Where possible, select strawberry varieties that are bred to be resistant to common pests.\n\nBy implementing these strategies, pest problems can be reduced, protecting both the strawberry crop and the environment.",
+    "lang": "en"
+  },
+  "What are the common diseases affecting Okra and how to manage them?": {
+    "answer": "Based on the provided context, a common disease affecting okra is Bhendi yellow vein mosaic virus (BYLVMV). \n\nManagement strategies include:\n\n- Use resistant or tolerant varieties such as Aruna (red-fruited), Susthira, Arka Anamika, Arka Abhay for resistance, and Punjab Padmini, Parbhani Kranti for tolerance.\n- Apply good field practices to prevent disease transmission.\n- Place yellow sticky traps (12 per acre) above plant height to monitor and catch vector insects such as whiteflies, which transmit the virus.\n- Destroy weeds and other wild hosts, especially croton (Croton sparsiflora).\n- Remove and burn affected plants from the field.\n- Clean tools and tillage equipment after use.\n- Plan a crop rotation for at least two years.\n\nWhiteflies are also a pest associated with the spread of viral diseases in okra:\n- Set up 10-20 yellow or blue sticky traps per acre above the crop canopy for mass trapping of whiteflies and other pests.\n- Spray Azadirachtin (neem oil-based products) at recommended doses for whitefly control.\n\nNo other diseases are specifically mentioned in the context.",
+    "lang": "en"
+  }
+}
